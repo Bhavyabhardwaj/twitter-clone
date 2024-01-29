@@ -3,7 +3,7 @@
 This is a simple Twitter clone built with HTML and CSS. It mimics some of the basic functionalities and design elements of the Twitter platform.
 
 ## Preview
-![Twitter Clone Preview](https://twitterclone.freewebhostmost.com/)
+(https://twitterclone.freewebhostmost.com)
 
 ## Features
 - **Navigation:** Explore a simplified version of Twitter's navigation with a sidebar containing various sections.
